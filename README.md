@@ -86,6 +86,6 @@ Contributions are welcome! Please open an issue or submit a pull request to the 
 
 ## Contact
 
-For questions or feedback, please contact [your email](mailto:einsteinmokua100.com).
+For questions or feedback, please contact [me](mailto:einsteinmokua100@gmail.com).
 
 Enjoy the game! 🎉
