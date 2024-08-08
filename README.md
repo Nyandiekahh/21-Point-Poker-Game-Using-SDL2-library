@@ -34,7 +34,7 @@ This is a 21-Point Poker game implemented in C using the SDL2 library for graphi
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/21-point-poker.git
+   git clone https://github.com/Nyandiekahh/21-Point-Poker-Game.git
    cd 21-point-poker
    ```
 
@@ -82,10 +82,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request to the [GitHub repository](https://github.com/yourusername/21-point-poker).
+Contributions are welcome! Please open an issue or submit a pull request to the [GitHub repository](https://github.com/Nyandiekahh/21-point-poker).
 
 ## Contact
 
-For questions or feedback, please contact [your email](mailto:your.email@example.com).
+For questions or feedback, please contact [your email](mailto:einsteinmokua100.com).
 
 Enjoy the game! 🎉
